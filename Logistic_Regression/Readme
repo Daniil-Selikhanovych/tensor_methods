@@ -1,4 +1,4 @@
-This set of codes excecutes two studied tensor methods to the Logistic Regression Problem. 
+This set of codes excecutes studied tensor methods to the Logistic Regression Problem. 
 The data are Covertype Dataset in the covtype.libsvm.binary.scale file (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/covtype.libsvm.binary.scale.bz2).
 The main code is in LogisticRegression-Part1.ipynb and LogisticRegression-Part2.ipynb.
 txt-files are f(x_k) data for tensors_logistic_loss_iter.pdf.
