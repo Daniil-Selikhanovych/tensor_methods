@@ -1,1 +1,3 @@
-This set of scripts run the two methods we are comparing on the parametric family of hard functions
+This set of scripts run the methods we are comparing on the parametric family of hard functions.
+The main code is in NesterovFunction-Part1.ipynb and NesterovFunction-Part2.ipynb.
+txt-files are f(x_k) data for Tensor3_f_n=1000_iter.pdf.
